@@ -1,0 +1,28 @@
+1
+2
+salut
+mon gars
+ca 
+va 
+la forme
+yeee
+
+total 88
+-rw-r--r-- 1 adouay 2022_paris  2491 Jun 30 14:55 get_next_line_bonus.c
+-rw-r--r-- 1 adouay 2022_paris  1259 Jun 30 14:47 get_next_line_bonus.h
+-rw-r--r-- 1 adouay 2022_paris  3504 Jun 30 14:58 get_next_line_bonus.o
+-rw-r--r-- 1 adouay 2022_paris  1564 Jun 30 14:47 get_next_line_utils_bonus.c
+-rw-r--r-- 1 adouay 2022_paris  2296 Jun 30 14:58 get_next_line_utils_bonus.o
+drwxr-xr-x 3 adouay 2022_paris  4096 Jun 30 14:46 libft
+-rw-r--r-- 1 adouay 2022_paris    21 Jun 30 14:05 test2.txt
+-rw-r--r-- 1 adouay 2022_paris     0 Jun 30 13:41 test3.txt
+-rw-r--r-- 1 adouay 2022_paris    42 Jun 30 13:47 test.txt
+total 88
+-rw-r--r-- 1 adouay 2022_paris  2491 Jun 30 14:55 get_next_line_bonus.c
+-rw-r--r-- 1 adouay 2022_paris  1259 Jun 30 14:47 get_next_line_bonus.h
+-rw-r--r-- 1 adouay 2022_paris  3504 Jun 30 14:58 get_next_line_bonus.o
+-rw-r--r-- 1 adouay 2022_paris  1564 Jun 30 14:47 get_next_line_utils_bonus.c
+-rw-r--r-- 1 adouay 2022_paris  2296 Jun 30 14:58 get_next_line_utils_bonus.o
+drwxr-xr-x 3 adouay 2022_paris  4096 Jun 30 14:46 libft
+-rw-r--r-- 1 adouay 2022_paris    21 Jun 30 14:05 test2.txt
+-rw-r--r-- 1 adouay 2022_paris     0 Jun 30 13:41 test3.txt
